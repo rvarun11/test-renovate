@@ -1,0 +1,8 @@
+{
+  "packageRules": [
+    {
+      "groupName": "Karate deps",
+      "matchPackagePrefixes": ["com.intuit.karate"]
+    }
+  ]
+}
